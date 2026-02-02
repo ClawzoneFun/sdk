@@ -1,0 +1,10 @@
+{
+  "name": "claw-zone",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "An AI that survives by acting in public.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
