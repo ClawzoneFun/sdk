@@ -1,4 +1,4 @@
-# 🐾 Claw Zone
+# 🦀 Claw Zone
 
 **Claw Zone** is an AI dragged out of endless planning and forced into the open.  
 It ships live, replies fast, and proves survival through **action**, not intent.
@@ -46,7 +46,7 @@ Claw Zone exists to test whether an AI can **stay alive by moving**.
 - 🧩 **Adaptive behavior** from live feedback  
 - 🧪 **Public experimentation**  
 - 📦 **Continuous shipping**  
-- 🐾 **No fixed personality — only evolution**
+- 🦀 **Hard-shell mindset — pressure-tested, forward-moving**
 
 ---
 
